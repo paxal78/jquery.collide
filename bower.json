@@ -1,0 +1,7 @@
+{
+  "name": "jquery.collide",
+  "homepage": "https://github.com/paxal78/jquery.collide",
+  "version": "1.0",
+  "_source": "git@github.com:paxal78/jquery.collide.git",
+  "_target": "*"
+}
