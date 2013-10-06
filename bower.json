@@ -6,7 +6,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v0.1",
-    "commit": "03a3a31137b3c425dff6337292c21cfd213a8117"
+    "commit": "f4bc8be0b93b9c4d77ab29068d2bfb10386e5731"
   },
   "_source": "git@github.com:paxal78/jquery.collide.git",
   "_target": "*"
